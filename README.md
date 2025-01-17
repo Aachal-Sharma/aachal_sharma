@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aachal Sharma, and I'm an M.Tech Research student in AI and Robotics at IIT Mandi.</p>
+<p align="left">My name is Aachal Sharma, and I'm a M.Tech Research student in AI and Robotics at IIT Mandi.</p>
 
 ###
 
